@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">飞花令by JJ</string>
+    <string name="edit_message">输入关键字</string>
+    <string name="button_send">飞起！</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">包含该字的诗句：</string>
+
+</resources>
